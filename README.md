@@ -6,7 +6,7 @@ Our open source community is focused on helping everyone get started with Open S
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Introduction-To-Open-Source](https://github.com/HeroicHitesh/Introduction-To-Open-Source) by using the <a href="https://github.com/HeroicHitesh/Introduction-To-Open-Source/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
+You can get your own fork/copy of [Introduction-To-Open-Source](https://github.com/HeroicHitesh/Introduction-To-Open-Source) by using the <a href="https://github.com/HeroicHitesh/Introduction-To-Open-Source"><kbd><b>Fork</b></kbd></a> button.
 
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/HeroicHitesh/Introduction-To-Open-Source)
 
