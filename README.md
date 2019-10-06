@@ -76,7 +76,7 @@ $ git reset --hard upstream/master
 $ git push origin master
 ```
 
-### 5. *Git* Set Go... :racehorse: :loudspeaker:
+### 5. :loudspeaker: *Git* Set Go... :racehorse: 
 
 Once you have completed above steps, you are ready to start contributing to open source by checking Issues with `Help Wanted` tag and creating PRs.
 
