@@ -127,3 +127,6 @@ We love to have `articles` and `codes` in different languages to `improve` exist
 Please discuss it with us first by creating new issue.
 
 :tada: :sparkles: :smile: _**Happy Contributing**_ :smile: :sparkles: :tada:
+
+
+For more details please refer this [guide](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
