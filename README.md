@@ -1,4 +1,4 @@
-## Introduction-To-Open-Source :octocat:
+## Introduction To Open Source :octocat:
 
 Our open source community is focused on helping everyone get started with Open Source.
 
